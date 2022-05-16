@@ -2,6 +2,7 @@
 Jogo simples em pygame
 
 Usa uma matriz 2d e um spritesheet para renderizar um mundo
+
 O personagem consegue manipular o mundo
 tem um PDF com instruções.
 
